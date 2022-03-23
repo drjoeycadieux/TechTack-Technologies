@@ -6,7 +6,8 @@ body {
 
 nav {
   padding: 25px;
-  background-color: rgb(31, 138, 209);
+  background-color: rgb(23, 31, 68);
+  /* background-color: rgb(31, 138, 209); */
 }
 
 ul {
@@ -22,16 +23,17 @@ li a {
   text-decoration: none;
   font-weight: bold;
   font-family: sans-serif;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 249, 249);
 }
 
 li a:hover {
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 header {
   padding: 150px;
-  background-color: rgb(19, 22, 53);
+  /* background-color: rgb(19, 22, 53); */
+  background-color: #303846;
 }
 
 .inner {
