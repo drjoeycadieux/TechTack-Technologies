@@ -1,0 +1,13 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+.alerts-banner {
+  background-color: rgb(21, 128, 216);
+  padding: 1.5rem;
+}
+.alerts-banner,
+p {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+}
