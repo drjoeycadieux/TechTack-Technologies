@@ -49,14 +49,14 @@ header h1 {
   padding: 150px;
   color: black;
   font-family: sans-serif;
-  width: 600px;
+  /* width: 600px; */
   margin: auto;
 }
 .features {
   padding: 150px;
   color: black;
   font-family: sans-serif;
-  width: 600px;
+  /* width: 600px; */
   margin: auto;
 }
 
@@ -66,4 +66,7 @@ header h1 {
   color: white;
   font-family: sans-serif;
   text-align: center;
+}
+#services {
+  padding: 150px;
 }
