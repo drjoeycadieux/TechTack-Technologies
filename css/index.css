@@ -4,6 +4,9 @@ body {
   margin: 0;
 }
 
+hr.hrelement {
+  border-top: 3px dotted rgb(245, 243, 243);
+}
 .inner1 {
   background-color: rgb(211, 214, 14);
   padding: 3px;
