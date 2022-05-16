@@ -4,30 +4,9 @@ body {
   margin: 0;
 }
 
-nav {
-  padding: 25px;
-  background-color: rgb(23, 31, 68);
-  /* background-color: rgb(31, 138, 209); */
-}
-
-ul {
-  display: block;
-}
-
-li {
-  display: inline;
-  margin: 10px;
-}
-
-li a {
-  text-decoration: none;
-  font-weight: bold;
-  font-family: sans-serif;
-  color: rgb(255, 249, 249);
-}
-
-li a:hover {
-  color: rgb(199, 197, 197);
+.inner1 {
+  background-color: rgb(99, 99, 99);
+  padding: 1px;
 }
 
 header {
@@ -71,4 +50,25 @@ header h1 {
 }
 #services {
   padding: 150px;
+}
+
+/* Footer Nav Css */
+
+.footer ul {
+  display: block;
+}
+
+.footer li {
+  display: inline;
+  margin: 10px;
+}
+.footer a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.footer a:hover {
+  color: lightslategray;
+  text-decoration: underline;
 }
