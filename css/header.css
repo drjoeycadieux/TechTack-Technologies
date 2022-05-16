@@ -1,0 +1,27 @@
+.nav-item {
+  background-color: black;
+  padding: 15px;
+}
+
+.nav-item ul {
+  display: block;
+}
+
+.nav-item li {
+  display: inline;
+  margin: 5px;
+}
+
+.nav-item h3 {
+  color: white;
+  display: inline;
+  margin: 15px;
+}
+.nav-item a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-item a:hover {
+  color: lightgray;
+}
