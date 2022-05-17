@@ -34,12 +34,13 @@ header h1 {
 }
 
 .section {
-  background-color: khaki;
-  padding: 150px;
+  background-color: rgb(87, 172, 230);
+  padding: 100px;
   color: black;
   font-family: sans-serif;
-  /* width: 600px; */
+  width: 800px;
   margin: auto;
+  border-radius: 15px;
 }
 .features {
   background-color: forestgreen;
@@ -59,8 +60,11 @@ header h1 {
   text-align: center;
 }
 #services {
-  padding: 150px;
+  padding: 100px;
   background-color: lightcoral;
+  width: 800px;
+  margin: auto;
+  border-radius: 15px;
 }
 
 /* Footer Nav Css */

@@ -1,0 +1,24 @@
+.advice {
+  padding: 100px;
+}
+
+.advice h3 {
+  width: 700px;
+  margin: auto;
+  text-align: center;
+}
+
+.inner3 {
+  padding: 3px;
+  background-color: firebrick;
+}
+
+.inner4 {
+  padding: 3px;
+  background-color: rgb(29, 207, 13);
+}
+
+.inner4 {
+  padding: 3px;
+  background-color: gray;
+}
