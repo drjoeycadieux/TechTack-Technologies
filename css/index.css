@@ -52,7 +52,8 @@ header h1 {
 
 .footer {
   padding: 25px;
-  background-color: rgb(23, 31, 68);
+  /* background-color: rgb(23, 31, 68); */
+  background-color: black;
   color: white;
   font-family: sans-serif;
   text-align: center;
