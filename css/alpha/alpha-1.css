@@ -1,0 +1,19 @@
+.inner6 {
+  background-color: lightcoral;
+  padding: 2px;
+}
+.flex-container {
+  background-color: white;
+  display: flex;
+  padding: 100px;
+}
+
+.flex-container .items {
+  padding: 10px;
+  margin: 0;
+}
+
+.flex-container .items p {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
