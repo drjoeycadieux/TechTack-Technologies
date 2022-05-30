@@ -1,0 +1,25 @@
+.flex-container {
+  background-color: dodgerblue;
+  display: flex;
+  padding: 10px;
+}
+
+ul {
+  display: block;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+  color: black;
+}
+
+li a {
+  color: black;
+  font-weight: bold;
+}
+
+li a:hover {
+  color: white;
+  text-decoration: none;
+}
