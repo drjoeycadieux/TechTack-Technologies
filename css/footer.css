@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.footer {
+  padding: 25px;
+  background-color: lightslategray;
+}
+
+.footernav_group {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.footernav_links {
+  display: flex;
+  font-size: 15px;
+  flex-direction: column;
+  row-gap: 8px;
+}
