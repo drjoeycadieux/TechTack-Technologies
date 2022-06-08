@@ -5,18 +5,37 @@ body {
 
 .footer {
   padding: 25px;
-  background-color: lightslategray;
+  /* background-color: rgb(23, 31, 68); */
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+#services {
+  padding: 100px;
+  background-color: lightcoral;
+  width: 800px;
+  margin: auto;
+  border-radius: 15px;
 }
 
-.footernav_group {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
+/* Footer Nav Css */
+
+.footer ul {
+  display: block;
 }
 
-.footernav_links {
-  display: flex;
-  font-size: 15px;
-  flex-direction: column;
-  row-gap: 8px;
+.footer li {
+  display: inline;
+  margin: 10px;
+}
+.footer a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.footer a:hover {
+  color: lightslategray;
+  text-decoration: underline;
 }
